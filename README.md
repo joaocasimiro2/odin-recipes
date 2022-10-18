@@ -11,4 +11,3 @@ HTML5 so far
 Recipes:
 Lasagna
 Hamburger
-Pizza
